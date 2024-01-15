@@ -36,5 +36,4 @@ Contributions are welcome! Please follow these guidelines:
 - Create a pull request
 
 ## License
-[license under which  project is distributed, e.g., VD License]
 
